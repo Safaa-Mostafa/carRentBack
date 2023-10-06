@@ -1,0 +1,28 @@
+{
+  "name": "finel-project_nti",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "country-state-city": "^3.1.2",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.8.0",
+    "mongoose-timestamp": "^0.6.0",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.20",
+    "passport-google-oauth": "^2.0.0",
+    "path": "^0.12.7",
+    "socket.io": "^4.5.2",
+    "validator": "^13.7.0"
+  },
+  "description": ""
+}
